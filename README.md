@@ -1,3 +1,4 @@
+
 # Delos AI
 
 Repo per la condivisione degli output di progetto.
@@ -14,4 +15,4 @@ Copyright © 2025 Tutti i diritti riservati.
 E' proibita la riproduzione, anche parziale, in ogni forma o mezzo, senza espresso permesso scritto dell'autore.
 
 ---
-<img width="1280" alt="Banner" src="https://github.com/user-attachments/assets/56f773d0-e19d-46e5-9841-927947841669" />
+<img width="1280" height="185" alt="Delos-Anonima-readme" src="https://github.com/user-attachments/assets/9fca1791-105f-4834-afb8-14d973e608cc" />
