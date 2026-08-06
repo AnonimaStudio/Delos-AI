@@ -11,7 +11,7 @@ Testi, foto, grafica, materiali inseriti nel repository non potranno essere pubb
 
 Delos AI declina ogni responsabilità, diretta e indiretta, nei confronti degli utenti e in generale di qualsiasi terzo, per eventuali imprecisioni, errori, omissioni, danni (diretti, indiretti, conseguenti, punibili e sanzionabili) derivanti dai suddetti contenuti.
 
-Copyright © 2025 Tutti i diritti riservati.
+Copyright © 2026 Tutti i diritti riservati.
 E' proibita la riproduzione, anche parziale, in ogni forma o mezzo, senza espresso permesso scritto dell'autore.
 
 ---
